@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\marti\\Desktop\\C# and SQl projects\\PA\\PA.csproj",
+      "projectUniqueName": "c:\\Users\\marti\\Desktop\\C# and SQl projects\\PA\\PA.csproj",
       "projectName": "PA",
-      "projectPath": "C:\\Users\\marti\\Desktop\\C# and SQl projects\\PA\\PA.csproj",
+      "projectPath": "c:\\Users\\marti\\Desktop\\C# and SQl projects\\PA\\PA.csproj",
       "packagesPath": "C:\\Users\\marti\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\marti\\Desktop\\C# and SQl projects\\PA\\obj\\",
+      "outputPath": "c:\\Users\\marti\\Desktop\\C# and SQl projects\\PA\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\marti\\AppData\\Roaming\\NuGet\\NuGet.Config"
